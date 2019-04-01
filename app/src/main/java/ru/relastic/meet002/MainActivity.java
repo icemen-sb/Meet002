@@ -1,4 +1,4 @@
-package ru.relastic.firstapp;
+package ru.relastic.meet002;
 
 import android.content.Context;
 import android.content.Intent;

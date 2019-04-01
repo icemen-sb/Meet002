@@ -1,4 +1,4 @@
-package ru.relastic.firstapp
+package ru.relastic.meet002
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
